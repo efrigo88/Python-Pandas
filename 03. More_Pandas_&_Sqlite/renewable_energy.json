@@ -1,0 +1,600 @@
+{"year":2007,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":86690.0}
+{"year":2007,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":224.0}
+{"year":2007,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2007,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5201.0}
+{"year":2007,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4786.0}
+{"year":2007,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8634.0}
+{"year":2007,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1242291.0}
+{"year":2007,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3210.0}
+{"year":2007,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.08}
+{"year":2007,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":74537.0}
+{"year":2007,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9383706.0}
+{"year":2007,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":24249.0}
+{"year":2007,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.58}
+{"year":2007,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":563022.0}
+{"year":2007,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2007,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11063169.0}
+{"year":2007,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":28589.0}
+{"year":2007,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.68}
+{"year":2007,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":663790.0}
+{"year":2007,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.68}
+{"year":2007,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":326.0}
+{"year":2007,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1.0}
+{"year":2007,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2007,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":20.0}
+{"year":2007,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42083.0}
+{"year":2007,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":60.0}
+{"year":2007,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":977086.0}
+{"year":2007,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":71.0}
+{"year":2007,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":233652.0}
+{"year":2007,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":604.0}
+{"year":2007,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2007,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14019.0}
+{"year":2007,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":116505.0}
+{"year":2007,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":301.0}
+{"year":2007,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2007,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":null}
+{"year":2007,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":6990.0}
+{"year":2008,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":83934.0}
+{"year":2008,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":205.0}
+{"year":2008,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2008,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":86690.0}
+{"year":2008,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-2756.0}
+{"year":2008,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5036.0}
+{"year":2008,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3245.0}
+{"year":2008,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":11551.0}
+{"year":2008,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1398360.0}
+{"year":2008,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3417.0}
+{"year":2008,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.08}
+{"year":2008,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1242291.0}
+{"year":2008,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":156069.0}
+{"year":2008,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":83902.0}
+{"year":2008,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9255132.0}
+{"year":2008,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":22616.0}
+{"year":2008,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.53}
+{"year":2008,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9383706.0}
+{"year":2008,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-128574.0}
+{"year":2008,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":555308.0}
+{"year":2008,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":27.0}
+{"year":2008,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11292208.0}
+{"year":2008,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":27594.0}
+{"year":2008,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.65}
+{"year":2008,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11063169.0}
+{"year":2008,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":229039.0}
+{"year":2008,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":677532.0}
+{"year":2008,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.65}
+{"year":2008,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1385.0}
+{"year":2008,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2008,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2008,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":326.0}
+{"year":2008,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1059.0}
+{"year":2008,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":83.0}
+{"year":2008,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42464.0}
+{"year":2008,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":70.0}
+{"year":2008,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1042654.0}
+{"year":2008,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":47.0}
+{"year":2008,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":422457.0}
+{"year":2008,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1032.0}
+{"year":2008,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.02}
+{"year":2008,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":233652.0}
+{"year":2008,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":188805.0}
+{"year":2008,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":25347.0}
+{"year":2008,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":130941.0}
+{"year":2008,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":320.0}
+{"year":2008,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2008,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":116505.0}
+{"year":2008,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14436.0}
+{"year":2008,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":7856.0}
+{"year":2009,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":85598.0}
+{"year":2009,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":205.0}
+{"year":2009,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2009,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":83934.0}
+{"year":2009,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1664.0}
+{"year":2009,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5136.0}
+{"year":2009,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4088.0}
+{"year":2009,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":9471.0}
+{"year":2009,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1749010.0}
+{"year":2009,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4197.0}
+{"year":2009,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.1}
+{"year":2009,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1398360.0}
+{"year":2009,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":350650.0}
+{"year":2009,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":104941.0}
+{"year":2009,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9310094.0}
+{"year":2009,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":22340.0}
+{"year":2009,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.53}
+{"year":2009,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9255132.0}
+{"year":2009,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":54962.0}
+{"year":2009,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":558606.0}
+{"year":2009,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":98.0}
+{"year":2009,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11733864.0}
+{"year":2009,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":28156.0}
+{"year":2009,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.67}
+{"year":2009,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11292208.0}
+{"year":2009,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":441656.0}
+{"year":2009,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":704032.0}
+{"year":2009,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.67}
+{"year":2009,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1440.0}
+{"year":2009,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2009,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2009,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1385.0}
+{"year":2009,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":55.0}
+{"year":2009,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":86.0}
+{"year":2009,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":41873.0}
+{"year":2009,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":105.0}
+{"year":2009,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1047010.0}
+{"year":2009,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":59.0}
+{"year":2009,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":454009.0}
+{"year":2009,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1089.0}
+{"year":2009,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.03}
+{"year":2009,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":422457.0}
+{"year":2009,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":31552.0}
+{"year":2009,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":27241.0}
+{"year":2009,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":133713.0}
+{"year":2009,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":321.0}
+{"year":2009,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2009,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":130941.0}
+{"year":2009,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2773.0}
+{"year":2009,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":8023.0}
+{"year":2010,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":91103.0}
+{"year":2010,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":221.0}
+{"year":2010,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2010,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":85598.0}
+{"year":2010,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5504.0}
+{"year":2010,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5466.0}
+{"year":2010,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3109.0}
+{"year":2010,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8449.0}
+{"year":2010,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1929148.0}
+{"year":2010,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4671.0}
+{"year":2010,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.11}
+{"year":2010,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1749010.0}
+{"year":2010,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":180138.0}
+{"year":2010,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":115749.0}
+{"year":2010,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9991724.0}
+{"year":2010,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":24194.0}
+{"year":2010,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.57}
+{"year":2010,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9310094.0}
+{"year":2010,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":681631.0}
+{"year":2010,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":599503.0}
+{"year":2010,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":9.0}
+{"year":2010,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":12811765.0}
+{"year":2010,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":31022.0}
+{"year":2010,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.73}
+{"year":2010,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":11733864.0}
+{"year":2010,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1077901.0}
+{"year":2010,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":768706.0}
+{"year":2010,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.73}
+{"year":2010,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1492.0}
+{"year":2010,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4.0}
+{"year":2010,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2010,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1440.0}
+{"year":2010,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":53.0}
+{"year":2010,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":90.0}
+{"year":2010,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42641.0}
+{"year":2010,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":52.0}
+{"year":2010,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1056625.0}
+{"year":2010,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":51.0}
+{"year":2010,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":650783.0}
+{"year":2010,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1576.0}
+{"year":2010,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.04}
+{"year":2010,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":454009.0}
+{"year":2010,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":196774.0}
+{"year":2010,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":39047.0}
+{"year":2010,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":147515.0}
+{"year":2010,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":357.0}
+{"year":2010,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2010,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":133713.0}
+{"year":2010,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13801.0}
+{"year":2010,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":8851.0}
+{"year":2011,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":82598.0}
+{"year":2011,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":215.0}
+{"year":2011,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2011,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":91103.0}
+{"year":2011,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-8505.0}
+{"year":2011,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":4956.0}
+{"year":2011,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1635.0}
+{"year":2011,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8853.0}
+{"year":2011,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2215070.0}
+{"year":2011,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5772.0}
+{"year":2011,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.13}
+{"year":2011,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1929148.0}
+{"year":2011,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":285922.0}
+{"year":2011,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":132904.0}
+{"year":2011,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9568100.0}
+{"year":2011,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":24931.0}
+{"year":2011,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.57}
+{"year":2011,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9991724.0}
+{"year":2011,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-423625.0}
+{"year":2011,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":574086.0}
+{"year":2011,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1.0}
+{"year":2011,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":12624306.0}
+{"year":2011,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":32895.0}
+{"year":2011,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.76}
+{"year":2011,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":12811765.0}
+{"year":2011,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-187459.0}
+{"year":2011,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":757458.0}
+{"year":2011,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.76}
+{"year":2011,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1483.0}
+{"year":2011,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4.0}
+{"year":2011,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2011,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1492.0}
+{"year":2011,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-9.0}
+{"year":2011,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":89.0}
+{"year":2011,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":43443.0}
+{"year":2011,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":52.0}
+{"year":2011,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1000346.0}
+{"year":2011,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":59.0}
+{"year":2011,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":629174.0}
+{"year":2011,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1639.0}
+{"year":2011,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.04}
+{"year":2011,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":650783.0}
+{"year":2011,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-21610.0}
+{"year":2011,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":37750.0}
+{"year":2011,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":127882.0}
+{"year":2011,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":333.0}
+{"year":2011,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2011,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":147515.0}
+{"year":2011,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-19633.0}
+{"year":2011,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":7673.0}
+{"year":2012,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":91659.0}
+{"year":2012,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":219.0}
+{"year":2012,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2012,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":82598.0}
+{"year":2012,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9061.0}
+{"year":2012,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5500.0}
+{"year":2012,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2327.0}
+{"year":2012,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8316.0}
+{"year":2012,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2437685.0}
+{"year":2012,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5832.0}
+{"year":2012,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.14}
+{"year":2012,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2215070.0}
+{"year":2012,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":222616.0}
+{"year":2012,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":146261.0}
+{"year":2012,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9994753.0}
+{"year":2012,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":23913.0}
+{"year":2012,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.56}
+{"year":2012,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9568100.0}
+{"year":2012,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":426654.0}
+{"year":2012,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":599685.0}
+{"year":2012,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2.0}
+{"year":2012,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13511024.0}
+{"year":2012,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":32326.0}
+{"year":2012,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.75}
+{"year":2012,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":12624306.0}
+{"year":2012,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":886717.0}
+{"year":2012,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":810661.0}
+{"year":2012,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.75}
+{"year":2012,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1780.0}
+{"year":2012,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":4.0}
+{"year":2012,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2012,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1483.0}
+{"year":2012,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":297.0}
+{"year":2012,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":107.0}
+{"year":2012,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":43014.0}
+{"year":2012,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":75.0}
+{"year":2012,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1078676.0}
+{"year":2012,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42.0}
+{"year":2012,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":837255.0}
+{"year":2012,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2003.0}
+{"year":2012,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.05}
+{"year":2012,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":629174.0}
+{"year":2012,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":208081.0}
+{"year":2012,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":50235.0}
+{"year":2012,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":147892.0}
+{"year":2012,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":354.0}
+{"year":2012,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2012,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":127882.0}
+{"year":2012,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":20010.0}
+{"year":2012,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":8874.0}
+{"year":2013,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":89692.0}
+{"year":2013,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":208.0}
+{"year":2013,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2013,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":91659.0}
+{"year":2013,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-1967.0}
+{"year":2013,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5382.0}
+{"year":2013,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3248.0}
+{"year":2013,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8335.0}
+{"year":2013,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2501124.0}
+{"year":2013,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5797.0}
+{"year":2013,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.14}
+{"year":2013,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2437685.0}
+{"year":2013,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":63439.0}
+{"year":2013,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":150067.0}
+{"year":2013,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9798124.0}
+{"year":2013,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":22710.0}
+{"year":2013,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.53}
+{"year":2013,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9994753.0}
+{"year":2013,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-196630.0}
+{"year":2013,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":587887.0}
+{"year":2013,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5.0}
+{"year":2013,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13410148.0}
+{"year":2013,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":31082.0}
+{"year":2013,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.73}
+{"year":2013,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13511024.0}
+{"year":2013,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-100876.0}
+{"year":2013,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":804609.0}
+{"year":2013,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.73}
+{"year":2013,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2153.0}
+{"year":2013,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5.0}
+{"year":2013,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2013,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1780.0}
+{"year":2013,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":374.0}
+{"year":2013,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":129.0}
+{"year":2013,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42703.0}
+{"year":2013,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":81.0}
+{"year":2013,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1105427.0}
+{"year":2013,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":33.0}
+{"year":2013,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":861885.0}
+{"year":2013,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1998.0}
+{"year":2013,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.05}
+{"year":2013,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":837255.0}
+{"year":2013,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":24630.0}
+{"year":2013,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":51713.0}
+{"year":2013,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":157169.0}
+{"year":2013,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":364.0}
+{"year":2013,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2013,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":147892.0}
+{"year":2013,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9277.0}
+{"year":2013,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9430.0}
+{"year":2014,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":94161.0}
+{"year":2014,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":205.0}
+{"year":2014,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2014,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":89692.0}
+{"year":2014,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":4469.0}
+{"year":2014,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5650.0}
+{"year":2014,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2012.0}
+{"year":2014,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":7661.0}
+{"year":2014,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2884112.0}
+{"year":2014,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":6264.0}
+{"year":2014,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.15}
+{"year":2014,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2501124.0}
+{"year":2014,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":382988.0}
+{"year":2014,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":173047.0}
+{"year":2014,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10678575.0}
+{"year":2014,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":23194.0}
+{"year":2014,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.55}
+{"year":2014,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9798124.0}
+{"year":2014,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":880452.0}
+{"year":2014,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":640715.0}
+{"year":2014,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2014,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14780283.0}
+{"year":2014,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":32103.0}
+{"year":2014,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.77}
+{"year":2014,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13410148.0}
+{"year":2014,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1370135.0}
+{"year":2014,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":886817.0}
+{"year":2014,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.77}
+{"year":2014,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":3887.0}
+{"year":2014,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":8.0}
+{"year":2014,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2014,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2153.0}
+{"year":2014,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1734.0}
+{"year":2014,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":233.0}
+{"year":2014,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":41827.0}
+{"year":2014,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":69.0}
+{"year":2014,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1155431.0}
+{"year":2014,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":48.0}
+{"year":2014,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":951681.0}
+{"year":2014,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2067.0}
+{"year":2014,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.05}
+{"year":2014,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":861885.0}
+{"year":2014,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":89796.0}
+{"year":2014,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":57101.0}
+{"year":2014,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":167865.0}
+{"year":2014,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":365.0}
+{"year":2014,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2014,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":157169.0}
+{"year":2014,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10696.0}
+{"year":2014,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10072.0}
+{"year":2015,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":103355.0}
+{"year":2015,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":232.0}
+{"year":2015,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2015,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":94161.0}
+{"year":2015,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9194.0}
+{"year":2015,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":6201.0}
+{"year":2015,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2152.0}
+{"year":2015,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":6624.0}
+{"year":2015,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":3164219.0}
+{"year":2015,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":7090.0}
+{"year":2015,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.17}
+{"year":2015,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2884112.0}
+{"year":2015,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":280107.0}
+{"year":2015,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":189853.0}
+{"year":2015,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10591203.0}
+{"year":2015,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":23732.0}
+{"year":2015,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.56}
+{"year":2015,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10678575.0}
+{"year":2015,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-87373.0}
+{"year":2015,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":635472.0}
+{"year":2015,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2015,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14982253.0}
+{"year":2015,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":33572.0}
+{"year":2015,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.79}
+{"year":2015,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14780283.0}
+{"year":2015,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":201970.0}
+{"year":2015,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":898935.0}
+{"year":2015,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.79}
+{"year":2015,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9960.0}
+{"year":2015,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":22.0}
+{"year":2015,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2015,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":3887.0}
+{"year":2015,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":6073.0}
+{"year":2015,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":598.0}
+{"year":2015,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42398.0}
+{"year":2015,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":74.0}
+{"year":2015,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1135271.0}
+{"year":2015,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":47.0}
+{"year":2015,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":957659.0}
+{"year":2015,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2146.0}
+{"year":2015,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.05}
+{"year":2015,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":951681.0}
+{"year":2015,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5978.0}
+{"year":2015,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":57460.0}
+{"year":2015,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":155856.0}
+{"year":2015,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":349.0}
+{"year":2015,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2015,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":167865.0}
+{"year":2015,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-12009.0}
+{"year":2015,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9351.0}
+{"year":2016,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":97830.0}
+{"year":2016,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":248.0}
+{"year":2016,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2016,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":103355.0}
+{"year":2016,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-5525.0}
+{"year":2016,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5870.0}
+{"year":2016,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1389.0}
+{"year":2016,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":6209.0}
+{"year":2016,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2952315.0}
+{"year":2016,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":7484.0}
+{"year":2016,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.17}
+{"year":2016,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":3164219.0}
+{"year":2016,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-211904.0}
+{"year":2016,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":177139.0}
+{"year":2016,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9773373.0}
+{"year":2016,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":24775.0}
+{"year":2016,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.58}
+{"year":2016,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10591203.0}
+{"year":2016,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-817830.0}
+{"year":2016,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":586402.0}
+{"year":2016,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1.0}
+{"year":2016,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13925378.0}
+{"year":2016,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":35300.0}
+{"year":2016,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.82}
+{"year":2016,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":14982253.0}
+{"year":2016,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-1056875.0}
+{"year":2016,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":835523.0}
+{"year":2016,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.82}
+{"year":2016,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":16090.0}
+{"year":2016,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":41.0}
+{"year":2016,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2016,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9960.0}
+{"year":2016,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":6129.0}
+{"year":2016,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":965.0}
+{"year":2016,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42949.0}
+{"year":2016,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":62.0}
+{"year":2016,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1016558.0}
+{"year":2016,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":50.0}
+{"year":2016,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":948803.0}
+{"year":2016,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2405.0}
+{"year":2016,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.06}
+{"year":2016,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":957659.0}
+{"year":2016,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-8856.0}
+{"year":2016,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":56928.0}
+{"year":2016,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":136967.0}
+{"year":2016,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":347.0}
+{"year":2016,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2016,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":155856.0}
+{"year":2016,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-18889.0}
+{"year":2016,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":8218.0}
+{"year":2017,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":95536.0}
+{"year":2017,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":265.0}
+{"year":2017,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2017,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":97830.0}
+{"year":2017,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-2294.0}
+{"year":2017,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5732.0}
+{"year":2017,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":819.0}
+{"year":2017,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":5149.0}
+{"year":2017,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2653292.0}
+{"year":2017,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":7351.0}
+{"year":2017,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.17}
+{"year":2017,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2952315.0}
+{"year":2017,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-299024.0}
+{"year":2017,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":159198.0}
+{"year":2017,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9388348.0}
+{"year":2017,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":26010.0}
+{"year":2017,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.61}
+{"year":2017,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9773373.0}
+{"year":2017,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-385024.0}
+{"year":2017,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":563301.0}
+{"year":2017,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":3.0}
+{"year":2017,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13133861.0}
+{"year":2017,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":36387.0}
+{"year":2017,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.86}
+{"year":2017,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13925378.0}
+{"year":2017,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-791517.0}
+{"year":2017,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":788032.0}
+{"year":2017,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.86}
+{"year":2017,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":21798.0}
+{"year":2017,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":60.0}
+{"year":2017,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2017,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":16090.0}
+{"year":2017,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5708.0}
+{"year":2017,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1308.0}
+{"year":2017,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42410.0}
+{"year":2017,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":52.0}
+{"year":2017,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":918474.0}
+{"year":2017,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":51.0}
+{"year":2017,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":856321.0}
+{"year":2017,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":2372.0}
+{"year":2017,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.06}
+{"year":2017,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":948803.0}
+{"year":2017,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-92483.0}
+{"year":2017,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":51379.0}
+{"year":2017,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":118567.0}
+{"year":2017,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":328.0}
+{"year":2017,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2017,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":136967.0}
+{"year":2017,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-18400.0}
+{"year":2017,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":7114.0}
+{"year":2018,"resource":"Biogas","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":79123.0}
+{"year":2018,"resource":"Biogas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":257.0}
+{"year":2018,"resource":"Biogas","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2018,"resource":"Biogas","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":95536.0}
+{"year":2018,"resource":"Biogas","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-16414.0}
+{"year":2018,"resource":"Biogas","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":4747.0}
+{"year":2018,"resource":"Coal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1273.0}
+{"year":2018,"resource":"Gas","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":6962.0}
+{"year":2018,"resource":"Geothermal","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2258252.0}
+{"year":2018,"resource":"Geothermal","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":7342.0}
+{"year":2018,"resource":"Geothermal","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.17}
+{"year":2018,"resource":"Geothermal","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":2653292.0}
+{"year":2018,"resource":"Geothermal","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-395039.0}
+{"year":2018,"resource":"Geothermal","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":135495.0}
+{"year":2018,"resource":"Hydro","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":7554059.0}
+{"year":2018,"resource":"Hydro","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":24558.0}
+{"year":2018,"resource":"Hydro","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.57}
+{"year":2018,"resource":"Hydro","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":9388348.0}
+{"year":2018,"resource":"Hydro","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-1834289.0}
+{"year":2018,"resource":"Hydro","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":453244.0}
+{"year":2018,"resource":"Oil","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":6.0}
+{"year":2018,"resource":"Renewable","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":10602699.0}
+{"year":2018,"resource":"Renewable","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":34469.0}
+{"year":2018,"resource":"Renewable","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.81}
+{"year":2018,"resource":"Renewable","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":13133861.0}
+{"year":2018,"resource":"Renewable","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-2531163.0}
+{"year":2018,"resource":"Renewable","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":636162.0}
+{"year":2018,"resource":"Renewable","variable":"Resource rent","units":"Number","magnitude":"Proportion","source":"Environmental Accounts","data_value":0.81}
+{"year":2018,"resource":"Solar","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":24798.0}
+{"year":2018,"resource":"Solar","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":81.0}
+{"year":2018,"resource":"Solar","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.0}
+{"year":2018,"resource":"Solar","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":21798.0}
+{"year":2018,"resource":"Solar","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":3000.0}
+{"year":2018,"resource":"Solar","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":1488.0}
+{"year":2018,"resource":"Total generation","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":42755.0}
+{"year":2018,"resource":"Total generation","variable":"Prices","units":"Number","magnitude":"Average","source":"Electricity Authority","data_value":86.0}
+{"year":2018,"resource":"Total generation","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":789087.0}
+{"year":2018,"resource":"Waste heat","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":45.0}
+{"year":2018,"resource":"Wind","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":593961.0}
+{"year":2018,"resource":"Wind","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":1931.0}
+{"year":2018,"resource":"Wind","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.05}
+{"year":2018,"resource":"Wind","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":856321.0}
+{"year":2018,"resource":"Wind","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-262360.0}
+{"year":2018,"resource":"Wind","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":35638.0}
+{"year":2018,"resource":"Wood","variable":"Closing stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":92506.0}
+{"year":2018,"resource":"Wood","variable":"Generation","units":"Gigawatt hours","magnitude":"Actual","source":"MBIE","data_value":301.0}
+{"year":2018,"resource":"Wood","variable":"Gigawatt hours","units":"Number","magnitude":"Proportion","source":"MBIE","data_value":0.01}
+{"year":2018,"resource":"Wood","variable":"Opening stock","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":118567.0}
+{"year":2018,"resource":"Wood","variable":"Other changes","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":-26061.0}
+{"year":2018,"resource":"Wood","variable":"Resource rent","units":"Dollars","magnitude":"Thousands","source":"Environmental Accounts","data_value":5550.0}

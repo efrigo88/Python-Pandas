@@ -1,0 +1,144 @@
+{"year":2007,"resource":"Biogas","data_value":92115.01}
+{"year":2007,"resource":"Coal","data_value":4786.0}
+{"year":2007,"resource":"Gas","data_value":8634.0}
+{"year":2007,"resource":"Geothermal","data_value":1320038.0800000001}
+{"year":2007,"resource":"Hydro","data_value":9970977.5800000001}
+{"year":2007,"resource":"Oil","data_value":3.0}
+{"year":2007,"resource":"Renewable","data_value":11755549.3599999994}
+{"year":2007,"resource":"Solar","data_value":347.0}
+{"year":2007,"resource":"Total generation","data_value":1019229.0}
+{"year":2007,"resource":"Waste heat","data_value":71.0}
+{"year":2007,"resource":"Wind","data_value":248275.01}
+{"year":2007,"resource":"Wood","data_value":123796.01}
+{"year":2008,"resource":"Biogas","data_value":173109.0}
+{"year":2008,"resource":"Coal","data_value":3245.0}
+{"year":2008,"resource":"Gas","data_value":11551.0}
+{"year":2008,"resource":"Geothermal","data_value":2884039.0800000001}
+{"year":2008,"resource":"Hydro","data_value":19088188.5300000012}
+{"year":2008,"resource":"Oil","data_value":27.0}
+{"year":2008,"resource":"Renewable","data_value":23289543.299999997}
+{"year":2008,"resource":"Solar","data_value":2856.0}
+{"year":2008,"resource":"Total generation","data_value":1085188.0}
+{"year":2008,"resource":"Waste heat","data_value":47.0}
+{"year":2008,"resource":"Wind","data_value":871293.02}
+{"year":2008,"resource":"Wood","data_value":270058.01}
+{"year":2009,"resource":"Biogas","data_value":176537.0}
+{"year":2009,"resource":"Coal","data_value":4088.0}
+{"year":2009,"resource":"Gas","data_value":9471.0}
+{"year":2009,"resource":"Geothermal","data_value":3607158.1000000001}
+{"year":2009,"resource":"Hydro","data_value":19201134.5300000012}
+{"year":2009,"resource":"Oil","data_value":98.0}
+{"year":2009,"resource":"Renewable","data_value":24199917.3400000036}
+{"year":2009,"resource":"Solar","data_value":2969.0}
+{"year":2009,"resource":"Total generation","data_value":1088988.0}
+{"year":2009,"resource":"Waste heat","data_value":59.0}
+{"year":2009,"resource":"Wind","data_value":936348.03}
+{"year":2009,"resource":"Wood","data_value":275771.01}
+{"year":2010,"resource":"Biogas","data_value":187892.01}
+{"year":2010,"resource":"Coal","data_value":3109.0}
+{"year":2010,"resource":"Gas","data_value":8449.0}
+{"year":2010,"resource":"Geothermal","data_value":3978716.1100000003}
+{"year":2010,"resource":"Hydro","data_value":20607146.5700000003}
+{"year":2010,"resource":"Oil","data_value":9.0}
+{"year":2010,"resource":"Renewable","data_value":26423259.4600000009}
+{"year":2010,"resource":"Solar","data_value":3079.0}
+{"year":2010,"resource":"Total generation","data_value":1099318.0}
+{"year":2010,"resource":"Waste heat","data_value":51.0}
+{"year":2010,"resource":"Wind","data_value":1342189.04}
+{"year":2010,"resource":"Wood","data_value":304237.01}
+{"year":2011,"resource":"Biogas","data_value":170367.0}
+{"year":2011,"resource":"Coal","data_value":1635.0}
+{"year":2011,"resource":"Gas","data_value":8853.0}
+{"year":2011,"resource":"Geothermal","data_value":4568816.1299999999}
+{"year":2011,"resource":"Hydro","data_value":19735216.5700000003}
+{"year":2011,"resource":"Oil","data_value":1.0}
+{"year":2011,"resource":"Renewable","data_value":26038966.5199999996}
+{"year":2011,"resource":"Solar","data_value":3059.0}
+{"year":2011,"resource":"Total generation","data_value":1043841.0}
+{"year":2011,"resource":"Waste heat","data_value":59.0}
+{"year":2011,"resource":"Wind","data_value":1297736.04}
+{"year":2011,"resource":"Wood","data_value":263770.01}
+{"year":2012,"resource":"Biogas","data_value":189037.01}
+{"year":2012,"resource":"Coal","data_value":2327.0}
+{"year":2012,"resource":"Gas","data_value":8316.0}
+{"year":2012,"resource":"Geothermal","data_value":5027464.1400000006}
+{"year":2012,"resource":"Hydro","data_value":20613105.5600000024}
+{"year":2012,"resource":"Oil","data_value":2.0}
+{"year":2012,"resource":"Renewable","data_value":27865035.5}
+{"year":2012,"resource":"Solar","data_value":3671.0}
+{"year":2012,"resource":"Total generation","data_value":1121765.0}
+{"year":2012,"resource":"Waste heat","data_value":42.0}
+{"year":2012,"resource":"Wind","data_value":1726748.05}
+{"year":2012,"resource":"Wood","data_value":305012.01}
+{"year":2013,"resource":"Biogas","data_value":184974.0}
+{"year":2013,"resource":"Coal","data_value":3248.0}
+{"year":2013,"resource":"Gas","data_value":8335.0}
+{"year":2013,"resource":"Geothermal","data_value":5158112.1400000006}
+{"year":2013,"resource":"Hydro","data_value":20206844.5300000012}
+{"year":2013,"resource":"Oil","data_value":5.0}
+{"year":2013,"resource":"Renewable","data_value":27655988.4600000009}
+{"year":2013,"resource":"Solar","data_value":4441.0}
+{"year":2013,"resource":"Total generation","data_value":1148211.0}
+{"year":2013,"resource":"Waste heat","data_value":33.0}
+{"year":2013,"resource":"Wind","data_value":1777481.05}
+{"year":2013,"resource":"Wood","data_value":324132.01}
+{"year":2014,"resource":"Biogas","data_value":194177.0}
+{"year":2014,"resource":"Coal","data_value":2012.0}
+{"year":2014,"resource":"Gas","data_value":7661.0}
+{"year":2014,"resource":"Geothermal","data_value":5947535.1500000004}
+{"year":2014,"resource":"Hydro","data_value":22021060.5500000007}
+{"year":2014,"resource":"Oil","data_value":3.0}
+{"year":2014,"resource":"Renewable","data_value":30479487.5399999991}
+{"year":2014,"resource":"Solar","data_value":8015.0}
+{"year":2014,"resource":"Total generation","data_value":1197327.0}
+{"year":2014,"resource":"Waste heat","data_value":48.0}
+{"year":2014,"resource":"Wind","data_value":1962530.05}
+{"year":2014,"resource":"Wood","data_value":346167.01}
+{"year":2015,"resource":"Biogas","data_value":213143.01}
+{"year":2015,"resource":"Coal","data_value":2152.0}
+{"year":2015,"resource":"Gas","data_value":6624.0}
+{"year":2015,"resource":"Geothermal","data_value":6525381.1699999999}
+{"year":2015,"resource":"Hydro","data_value":21841609.5600000024}
+{"year":2015,"resource":"Oil","data_value":3.0}
+{"year":2015,"resource":"Renewable","data_value":30897014.5799999982}
+{"year":2015,"resource":"Solar","data_value":20540.0}
+{"year":2015,"resource":"Total generation","data_value":1177743.0}
+{"year":2015,"resource":"Waste heat","data_value":47.0}
+{"year":2015,"resource":"Wind","data_value":1974924.05}
+{"year":2015,"resource":"Wood","data_value":321412.01}
+{"year":2016,"resource":"Biogas","data_value":201778.01}
+{"year":2016,"resource":"Coal","data_value":1389.0}
+{"year":2016,"resource":"Gas","data_value":6209.0}
+{"year":2016,"resource":"Geothermal","data_value":6089253.1699999999}
+{"year":2016,"resource":"Hydro","data_value":20157923.5799999982}
+{"year":2016,"resource":"Oil","data_value":1.0}
+{"year":2016,"resource":"Renewable","data_value":28721580.6400000006}
+{"year":2016,"resource":"Solar","data_value":33185.0}
+{"year":2016,"resource":"Total generation","data_value":1059569.0}
+{"year":2016,"resource":"Waste heat","data_value":50.0}
+{"year":2016,"resource":"Wind","data_value":1956939.0600000001}
+{"year":2016,"resource":"Wood","data_value":282499.01}
+{"year":2017,"resource":"Biogas","data_value":197069.01}
+{"year":2017,"resource":"Coal","data_value":819.0}
+{"year":2017,"resource":"Gas","data_value":5149.0}
+{"year":2017,"resource":"Geothermal","data_value":5473132.1699999999}
+{"year":2017,"resource":"Hydro","data_value":19366008.6099999994}
+{"year":2017,"resource":"Oil","data_value":3.0}
+{"year":2017,"resource":"Renewable","data_value":27092142.7199999988}
+{"year":2017,"resource":"Solar","data_value":44964.0}
+{"year":2017,"resource":"Total generation","data_value":960936.0}
+{"year":2017,"resource":"Waste heat","data_value":51.0}
+{"year":2017,"resource":"Wind","data_value":1766392.0600000001}
+{"year":2017,"resource":"Wood","data_value":244576.01}
+{"year":2018,"resource":"Biogas","data_value":163249.01}
+{"year":2018,"resource":"Coal","data_value":1273.0}
+{"year":2018,"resource":"Gas","data_value":6962.0}
+{"year":2018,"resource":"Geothermal","data_value":4659342.1699999999}
+{"year":2018,"resource":"Hydro","data_value":15585920.5700000003}
+{"year":2018,"resource":"Oil","data_value":6.0}
+{"year":2018,"resource":"Renewable","data_value":21876029.620000001}
+{"year":2018,"resource":"Solar","data_value":51165.0}
+{"year":2018,"resource":"Total generation","data_value":831928.0}
+{"year":2018,"resource":"Waste heat","data_value":45.0}
+{"year":2018,"resource":"Wind","data_value":1225491.05}
+{"year":2018,"resource":"Wood","data_value":190863.01}
